@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/main.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <title>Netflix Clone</title>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            
+            <h2 class="logo">NETFLIX &#x1F3AC; </h2>
+            <nav>
+                <a href="#">Inicio</a>
+                <a href="#">Séries</a>
+                <a href="#">Filmes</a>
+                <a href="#">Documentários</a>
+                <a href="#" >Configurações &#x2699 </a>
+            </nav>
+
+
+        </div>
+
+    </header>   
+
+<main>
+        <div class="filme-principal">
+            
+            <div class="container">
+
+             <h3 class="titulo"><ins>Velozes & Furiosos  9</ins> 
+
+                </h3> 
+
+                <p class="descricao">Dominic Toretto e sua família precisam enfrentar o seu      irmão  mais novo Jakob, <br> um assassino mortal que está trabalhando com inimiga, a  cyber-terrorista Cipher.
+                </p>     
+
+
+                
+                   
+                    <button class="botao"> &#x25B6   ASSISTIR AGORA </button>
+                    <button class="botao"> ❗ MAIS INFORMAÇÕES</button>
+               
+               
+
+            </div>
+
+        </div>
+
+
+
+  </main>
+
+</body>
+</html>
