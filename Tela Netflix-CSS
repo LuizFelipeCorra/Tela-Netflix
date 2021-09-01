@@ -33,6 +33,7 @@ header .container{
 
 
 .logo{
+    
     color: var(--vermelho);
     font-family: 'Arial Blcka',times;
     /* font-family: cursive; */
@@ -48,16 +49,18 @@ header nav a{
     color: rgb(255, 0, 0);
     border-radius: 9px;
     padding: 5px;
-    margin-right: 10px;
+    margin-right: 3px;
     transition: 1s;
     
 }
+
    
 header nav a:hover{
     background-color: white;
     color: rgb(0, 0, 0);
 
 }
+
 
 /* filme principal */
 
@@ -112,3 +115,18 @@ header nav a:hover{
     margin-left: 10px;
 }
 
+.camera{
+   
+    font-size: 34px;
+    margin-left: -600px;
+    margin-bottom: 9px;
+    padding: 0px;
+}
+
+.box-filme{
+    border: solid1px white;
+    margin-top: px;
+    height: 50%;
+    width: 50%;
+    display: block;
+}
